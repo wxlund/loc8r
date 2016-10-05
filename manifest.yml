@@ -1,0 +1,4 @@
+---
+applications:
+- name: my-node-app
+  command: node app.js
